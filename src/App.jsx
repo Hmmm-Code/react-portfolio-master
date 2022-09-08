@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 import Header from "./Components/header/header";
 import Nav from "./Components/navbar/navbar";
@@ -9,9 +9,11 @@ import Portfolio from "./Components/portfolio/portfolio";
 import Testimonials from "./Components/testimonials/testimonials";
 import Contact from "./Components/contact/contact";
 import Footer from "./Components/footer/footer";
-import Loader from './Components/spinnerLoader';
+import Loader from "./Components/spinnerLoader";
 
 const App = () => {
+  console.log(process.env.CI);
+
   return (
     <React.Fragment>
       <Loader />
@@ -20,12 +22,12 @@ const App = () => {
       <About />
       <Experience />
       <Services />
-      <Portfolio/>
+      <Portfolio />
       <Testimonials />
       <Contact />
-      <Footer/>
+      <Footer />
     </React.Fragment>
   );
-}
+};
 
-export default App
+export default App;
