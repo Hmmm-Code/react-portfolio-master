@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69f0cf84.css",
+    "main.js": "/static/js/main.2e03fc48.js",
+    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/cv.pdf": "/static/media/cv.b4e7eaadb44f2bab0507.pdf",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/Moseley.jpeg": "/static/media/Moseley.1cf314896e438aa72a1a.jpeg",
+    "static/media/me.jpeg": "/static/media/me.44a6e6ea0dedb658d2f3.jpeg",
+    "index.html": "/index.html",
+    "main.69f0cf84.css.map": "/static/css/main.69f0cf84.css.map",
+    "main.2e03fc48.js.map": "/static/js/main.2e03fc48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f0cf84.css",
+    "static/js/main.2e03fc48.js"
+  ]
+}
